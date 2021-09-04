@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <br>
-  <img align="center" alt="heloicon" src="https://media.discordapp.net/attachments/836036665037815828/883733009625415710/Thank_you_for_had_take_a_time_to_read_my_blog..png?width=80&height=80">
+  <img align="center" alt="heloicon" src="https://media.discordapp.net/attachments/836036665037815828/883733009625415710/Thank_you_for_had_take_a_time_to_read_my_blog..png?width=100&height=100">
 
 
