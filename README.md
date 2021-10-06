@@ -4,7 +4,7 @@
 <p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/b08218cf26e8b7cc584c50080317d3a9/3d23c3979b767a92-48/s1280x1920/9a520c03090942bd67eaa8b88cdcc4f92d9597ff.gifv" width="650">
 </p>
 <div>
-  <p align="center"> <img align="center" alt="helo" src="https://media.discordapp.net/attachments/836036665037815828/883878173681545216/helo.png" width="750">
+  <p align="center"> <img align="center" alt="helo" src="https://media.discordapp.net/attachments/836036665037815828/895394003145588788/helo.png?width=936&height=468" width="750">
 </p>
 <div>
   <br><br>
