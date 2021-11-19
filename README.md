@@ -1,7 +1,7 @@
  <p align="center">
    <img align="center" alt="Enjoy the Journey" src="https://64.media.tumblr.com/444e336c58f295647dc07fa173d0d60e/163f8ea9d5712aa4-e7/s500x750/27d93b81e0ff0e00e418d5497b09800826b3f9d3.gifv" width="400">
   </p>
-<p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/b08218cf26e8b7cc584c50080317d3a9/3d23c3979b767a92-48/s1280x1920/9a520c03090942bd67eaa8b88cdcc4f92d9597ff.gifv" width="650">
+<p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/b08218cf26e8b7cc584c50080317d3a9/3d23c3979b767a92-48/s1280x1920/9a520c03090942bd67eaa8b88cdcc4f92d9597ff.gifv" width="850">
 </p>
 <div>
   <p align="center"> <img align="center" alt="helo" src="https://media.discordapp.net/attachments/836036665037815828/911291018505236500/banner.png?width=936&height=468" width="750">
