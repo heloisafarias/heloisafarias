@@ -3,10 +3,7 @@
   </p>
 <p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/b08218cf26e8b7cc584c50080317d3a9/3d23c3979b767a92-48/s1280x1920/9a520c03090942bd67eaa8b88cdcc4f92d9597ff.gifv" width="850">
 </p>
-<div>
-  <p align="center"> <img align="center" alt="helo" src="https://media.discordapp.net/attachments/836036665037815828/911291018505236500/banner.png?width=936&height=468" width="750">
-</p>
-<div>
+
   <br><br>
   <a href="https://github.com/heloisafarias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisafarias&layout=compact&langs_count=7&theme=dracula"/>
