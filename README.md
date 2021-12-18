@@ -1,7 +1,7 @@
  <p align="center">
    <img align="center" alt="Enjoy the Journey" src="https://64.media.tumblr.com/444e336c58f295647dc07fa173d0d60e/163f8ea9d5712aa4-e7/s500x750/27d93b81e0ff0e00e418d5497b09800826b3f9d3.gifv" width="400">
   </p>
-<p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/b08218cf26e8b7cc584c50080317d3a9/3d23c3979b767a92-48/s1280x1920/9a520c03090942bd67eaa8b88cdcc4f92d9597ff.gifv" width="850">
+<p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/9c7b97d56675c5ceabdea745141704ca/98417d7bfc8b0f8c-07/s500x750/da1b8759f56ab4d566717eac6a987b12b84d9c2d.gifv" width="850">
 </p>
 
   <br><br>
