@@ -4,10 +4,6 @@
 <p align="center"> <img align="center" alt="helo" src="https://64.media.tumblr.com/9c7b97d56675c5ceabdea745141704ca/98417d7bfc8b0f8c-07/s500x750/da1b8759f56ab4d566717eac6a987b12b84d9c2d.gifv" width="850">
 </p>
 
-  <br><br>
-  <a href="https://github.com/heloisafarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisafarias&layout=compact&langs_count=7&theme=dracula"/>
-</div><br><br>
   
 <div> 
   <a href="https://www.youtube.com/channel/UC8ENvKGsgM2V44EnylkUGww" target="_blank"><img src="https://cdn.discordapp.com/attachments/836036665037815828/883868465621004308/youtube.png" target="_blank" width="40"></a>&nbsp;
