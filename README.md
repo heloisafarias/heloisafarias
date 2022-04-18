@@ -7,7 +7,6 @@
   
 <div> 
   <a href="https://www.youtube.com/channel/UC8ENvKGsgM2V44EnylkUGww" target="_blank"><img src="https://cdn.discordapp.com/attachments/836036665037815828/883868465621004308/youtube.png" target="_blank" width="40"></a>&nbsp;
-  <a href="https://instagram.com/0101helo" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1076/1076991.png" target="_blank" width="40"></a>&nbsp;
   <a href = "mailto:heloisafrsa@gmail.com"><img src="https://cdn.discordapp.com/attachments/836036665037815828/883868071289290792/gmail.png" target="_blank" width="40"></a>&nbsp;
   <a href="https://www.linkedin.com/in/heloisafarias" target="_blank"><img src="https://cdn.discordapp.com/attachments/836036665037815828/883868780739043338/linkedin.png" target="_blank" width="40" ></a><br><br>
   </div>
