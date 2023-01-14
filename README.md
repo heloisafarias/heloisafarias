@@ -1,4 +1,6 @@
-
+ <p align="left">
+   <img alt="welcome"  src="https://media.discordapp.net/attachments/836036665037815828/1063638646416224286/aaaaaaaaa.png" width="300">
+</p>
    <p align="left">
 😺 Heloisa, 24 y/o, Brazilian; <br />
 🌎 PTBR and English speaker, current learning Spanish;<br />
