@@ -5,7 +5,7 @@
 ⏪ Back-end developer (C#, .net, SQL, Azure);<br />
 👩‍💻 Computer Network student @ PUC;<br />
 💡 Currently interested in InfoSec area;<br />
-🐛 BookWorm and also a writer;<br />
+🐛 Bookworm and also a writer;<br />
 🕵️‍♀️ Really curious human being, I love learning new things;<br />
 
   </p>
