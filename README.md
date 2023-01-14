@@ -8,9 +8,9 @@
 👩‍💻 Computer Network student @ PUC;<br />
 💡 Currently interested in InfoSec area;<br />
 🐛 Bookworm and also a writer;<br />
-🕵️‍♀️ Really curious human being, I love learning new things;<br />
+🕵️‍♀️ Really curious human being, I love learning new things;
 
-  </p>
+  </p><br />
 
 
    
