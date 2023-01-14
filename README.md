@@ -1,8 +1,15 @@
  <p align="center">
    <img align="center" alt="descrição helo" src="https://user-images.githubusercontent.com/86490011/167229623-cf9425f7-b030-4f74-8a56-e409d9463c64.png" width="800">
   </p>
-   <p align="center">
-   <img align="center" alt="descrição helo" src="https://64.media.tumblr.com/c3f413e28441928c59337b32f8075190/9fc30c43de164ac7-f9/s500x750/38571f99c624e40588e707ead1cb1d325b86d72e.gifv" width="800">
+   <p align="left">
+😺 Heloisa, 24 y/o, Brazilian; 
+🌎 PTBR and English speaker, current learning Spanish;
+⏪ Back-end developer (C#, .net, SQL, Azure);
+👩‍💻 Computer Network student @ PUC;
+💡 Currently interested in InfoSec area;
+🐛 BookWorm and also a writer;
+🕵️‍♀️ Really curious human being, I love learning new things;
+
   </p>
 
 
