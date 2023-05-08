@@ -4,7 +4,6 @@
 🌎 PTBR and English speaker, current learning Spanish;<br />
 ⏪ Back-end developer (C# and Python);<br />
 👩‍💻 Computer Science student @ UFPR, Universidade Federal do Paraná;<br />
-💡 Currently interested in InfoSec area;<br />
 🐛 Bookworm and also a writer;<br />
 🕵️‍♀️ Really curious human being, I love learning new things;
 
