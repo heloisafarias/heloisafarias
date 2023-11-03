@@ -1,6 +1,6 @@
 
    <p align="left">
-😺 Heloisa, 24 y/o, Brazilian; <br />
+😺 Heloisa, 25 y/o, Brazilian; <br />
 🌎 PTBR and English speaker, current learning Spanish;<br />
 ⏪ Back-end developer (C# and Python);<br />
 👩‍💻 Computer Science student @ UFPR, Universidade Federal do Paraná;<br />
