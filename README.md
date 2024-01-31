@@ -4,7 +4,7 @@
 🌎 PTBR and English speaker, current learning Spanish;<br />
 ⏪ Back-end developer (C# and Python);<br />
 ✨ Interested in Security Awareness, Data Science and Machine Learning;
-👩‍💻 Computer Science student @ UTFPR ;<br />
+👩‍💻 Artificial Intelligence @ PUC ;<br />
 🐛 Bookworm and also a writer;<br />
 🕵️‍♀️ Really curious human being, I love learning new things;
 
