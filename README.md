@@ -1,9 +1,9 @@
 
    <p align="left">
 😺 Heloisa, 25 y/o, Brazilian; <br />
-🌎 PTBR and English speaker, current learning Spanish;<br />
+🌎 PTBR and English speaker;<br />
 ⏪ Back-end developer (C# and Python);<br />
-✨ Interested in Security Awareness, Data Science and Machine Learning;
+✨ Interested in Data Science and Machine Learning;
 👩‍💻 Artificial Intelligence @ PUC ;<br />
 🐛 Bookworm and also a writer;<br />
 🕵️‍♀️ Really curious human being, I love learning new things;
