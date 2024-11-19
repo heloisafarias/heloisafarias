@@ -1,6 +1,7 @@
 
    <p align="left">
 😺 Heloisa or Lola, 26 y/o, Brazilian; <br />
+🦋 Project Assistant @ WoMakersCode;
 🌎 PTBR and English speaker;<br />
 ⏪ Back-end developer;<br />
 ✨ Interested in Data Science and Machine Learning;
